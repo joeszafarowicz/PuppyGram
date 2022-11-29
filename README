@@ -1,5 +1,2 @@
 Joseph Szafarowicz
 11/09/2022
-
-When brainstorming the best way to implement downloading the URL image I did some research and found a way by using an extension and thought it was interesting so I used it in this project.
-Source: https://stackoverflow.com/questions/24231680/loading-downloading-image-from-url-on-swift
